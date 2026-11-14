@@ -1,2 +1,3 @@
 ریکان مجموعه مراحلی هستند که قبل از فاز تست برای جمع اوری اطلاعات انجام میشه و هر شخصی که تست نفوذ انجام میده باید یکی از این لیست ها برای راحتی کارش داشته باشه تا بتونه دقیق تر و با نظم کارش رو پیش ببره
   ## Git Practice  This change is created to practice Git Commit and Push. 
+Pull practice from GitHub
